@@ -57,12 +57,12 @@ TEAM_PROJECTS = {
         "teamNote": "As of September 15, 2026, Team 2 roster reduced to 2 members.",
     },
     "Marketing Strategy": {
-        "course": "Marketing Strategy",
-        "courseCode": "NBAB 6220 / MBQC 932",
-        "instructor": "Monica LaBarge",
-        "team": "Team 2",
-        "status": "in-progress",
-        "subgroups": ["JTBD Analysis (Jose Luis)", "Strategy & Visual Communication (Dr. Marian)"],
+    "course": "Marketing Strategy",
+    "courseCode": "NBAB 6220 / MBQC 932",
+    "instructor": "Monica LaBarge",
+    "team": "Team 2",
+    "status": "completed",
+    "subgroups": ["JTBD Analysis (Jose Luis)", "Strategy & Visual Communication (Dr. Marian)"],
         "teamNote": "As of September 15, 2026, Team 2 roster reduced to 2 members.",
     },
     "Investment Banking Essentials": {

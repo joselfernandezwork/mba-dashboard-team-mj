@@ -82,7 +82,7 @@ let coursesData = null;
 function renderCourses(courses) {
   const grid = document.getElementById('courses-grid');
   grid.innerHTML = courses.map(c =>
-    '<div class="card course-card">' +
+    '<a href="class.html?course=' + encodeURIComponent(c.name) + '" class="card course-card">' +
     '  <div class="flex-between">' +
     '    <h3>' + c.name + '</h3>' +
     '    ' + statusBadge(c.status) +
@@ -90,7 +90,7 @@ function renderCourses(courses) {
     '  <p class="course-code">' + c.code + '</p>' +
     '  <p class="course-instructor">' + c.instructor + '</p>' +
     '  <p class="course-term">' + c.term + ' * ' + c.fileCount + ' files</p>' +
-    '</div>'
+    '</a>'
   ).join('');
 }
 

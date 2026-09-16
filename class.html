@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Course — EMBA Americas Dashboard</title>
+  <link rel="stylesheet" href="/styles/base.css">
+  <link rel="stylesheet" href="/styles/dashboard.css">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <style>
+    .class-header { margin-bottom: 24px; }
+    .class-header h1 { font-size: 1.8rem; color: #002452; margin: 0; }
+    .class-header .meta { color: #6b7280; font-size: 0.85rem; margin-top: 4px; }
+    .class-back { display: inline-block; margin-bottom: 16px; color: #002452; text-decoration: none; font-weight: 600; }
+    .class-back:hover { text-decoration: underline; }
+    .subjects-list { list-style: none; padding: 0; margin: 0 0 20px; }
+    .subjects-list li { padding: 6px 0; border-bottom: 1px solid #e5e7eb; font-size: 0.9rem; }
+    .subjects-list li:last-child { border-bottom: none; }
+    .project-card { background: #f9fafb; border-radius: 8px; padding: 16px; margin-bottom: 12px; border-left: 4px solid #002452; }
+    .project-card.team { border-left-color: #B31B1B; }
+    .project-card.individual { border-left-color: #FABD0F; }
+    .project-card h3 { margin: 0 0 8px; font-size: 1.1rem; color: #002452; }
+    .project-card .meta { font-size: 0.85rem; color: #6b7280; margin-bottom: 8px; }
+    .parts-list { list-style: none; padding: 0; margin: 0; }
+    .parts-list li { padding: 4px 0; font-size: 0.85rem; display: flex; justify-content: space-between; }
+    .status-badge { padding: 2px 8px; border-radius: 12px; font-size: 0.75rem; font-weight: 600; }
+    .status-completed { background: #d1fae5; color: #065f46; }
+    .status-inprogress { background: #fee2e2; color: #991b1b; }
+    .loading { text-align: center; padding: 40px; color: #6b7280; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="index.html" class="class-back">← Back to Dashboard</a>
+    <div id="class-content">
+      <div class="loading">Loading course details...</div>
+    </div>
+  </div>
+  <script>
+    function getCourse() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('course') || params.get('name') || '';
+    }
+
+    const course = getCourse();
+    if (!course) {
+      document.getElementById('class-content').innerHTML = '<p style="color:#991b1b">No course specified. <a href="index.html">Return to dashboard</a></p>';
+    } else {
+      fetch('/api/class?course=' + encodeURIComponent(course))
+        .then(function(r) {
+          if (r.status === 401) { window.location.href = '/'; return null; }
+          if (!r.ok) { throw new Error('HTTP ' + r.status); }
+          return r.json();
+        })
+        .then(function(data) {
+          if (!data) return;
+          var html = '';
+          var c = data.course;
+          html += '<div class="class-header">';
+          html += '<h1>' + (c.name || 'Course') + '</h1>';
+          html += '<div class="meta">';
+          if (c.code) html += c.code + ' &middot; ';
+          if (c.term) html += c.term + ' &middot; ';
+          if (c.instructor) html += 'Prof. ' + c.instructor;
+          html += '</div></div>';
+          html += '<h2>Subjects</h2>';
+          html += '<ul class="subjects-list">';
+          (data.subjects || []).forEach(function(s) { html += '<li>' + s + '</li>'; });
+          html += '</ul>';
+          html += '<h2>Projects</h2>';
+          (data.projects || []).forEach(function(p) {
+            html += '<div class="project-card ' + (p.type === 'team' ? 'team' : 'individual') + '">';
+            html += '<h3>' + p.name + '</h3>';
+            html += '<div class="meta">' + (p.type || '') + ' &middot; ' + (p.course || '') + '</div>';
+            if (p.parts && p.parts.length) {
+              html += '<ul class="parts-list">';
+              p.parts.forEach(function(part) {
+                var s = part.status || 'unknown';
+                var cls = s === 'completed' ? 'status-completed' : 'status-inprogress';
+                html += '<li>' + part.name + ' <span class="status-badge ' + cls + '">' + s + '</span></li>';
+              });
+              html += '</ul>';
+            }
+            if (p.teamNote) html += '<div style="font-size:0.8rem;color:#6b7280;margin-top:8px;">' + p.teamNote + '</div>';
+            html += '</div>';
+          });
+          document.getElementById('class-content').innerHTML = html;
+        })
+        .catch(function(err) {
+          document.getElementById('class-content').innerHTML = '<p style="color:#991b1b">Error loading course: ' + err.message + '</p>';
+        });
+    }
+  </script>
+</body>
+</html>

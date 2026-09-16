@@ -1,4 +1,4 @@
-const PASSWORD = process.env.DASHBOARD_PASSWORD || 'emba2026';
+const PASSWORD = process.env.DASHBOARD_PASSWORD || 'EMBA_Mj_Dash2026!Secure#Access';
 
 module.exports = (req, res) => {
   if (req.method === 'POST') {

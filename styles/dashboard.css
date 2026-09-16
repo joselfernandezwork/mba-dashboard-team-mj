@@ -85,6 +85,18 @@
   color: #c9daf0;
 }
 
+.course-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.course-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 36, 82, 0.1);
+}
+
 .search-input {
   width: 100%;
   max-width: 480px;
