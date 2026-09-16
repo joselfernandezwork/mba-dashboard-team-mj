@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Cornell EMBA Americas Cohort 27 Dashboard - TEAM Mj",
   "scripts": {
-    "build": "echo 'Static site with pre-generated data; no build step needed'",
     "dev": "npx serve .",
     "test": "node scripts/test-dashboard.js"
   },
