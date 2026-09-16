@@ -84,3 +84,28 @@
   font-size: 0.78rem;
   color: #c9daf0;
 }
+
+.search-input {
+  width: 100%;
+  max-width: 480px;
+  padding: 8px 14px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  margin-top: 8px;
+}
+
+.logout-btn {
+  background: #B31B1B;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.logout-btn:hover {
+  background: #8a1515;
+}

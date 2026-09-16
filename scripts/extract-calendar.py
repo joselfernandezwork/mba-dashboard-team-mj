@@ -32,6 +32,8 @@ LOCATION_MAP = {
     "TORONTO": "Toronto",
     "NEW YORK CITY": "New York City",
     "QUEEN'S/CORNELL": "Queen's/Cornell",
+    "KINGSTON": "Kingston (Queen's)",
+    "ITHACA": "Ithaca (Cornell)",
     "Class at Cornell": "Cornell",
 }
 
@@ -285,8 +287,17 @@ def main():
             {"name": "Opening Onsite", "location": "Cornell", "term": "Summer 2025"},
             {"name": "Toronto Residency", "location": "Toronto", "term": "Fall 2025"},
             {"name": "NYC Residency", "location": "New York City", "term": "Spring 2026"},
-            {"name": "Final Onsite", "location": "Queen's/Cornell", "term": "Fall 2026"},
+            {"name": "Final Onsite: Kingston", "location": "Kingston (Queen's)", "term": "Fall 2026"},
+            {"name": "Final Onsite: Ithaca", "location": "Ithaca (Cornell)", "term": "Fall 2026"},
         ],
+        "finalOnsite": {
+            "dates": "Friday, October 30 - Sunday, November 8, 2026",
+            "locations": "Kingston (Queen's University) then Ithaca (Cornell University)",
+            "lodging": "Delta Hotels Kingston Waterfront (Kingston); Statler Hotel / Ithaca Commons (Ithaca)",
+            "dressCode": "Business casual (business attire required for formal dinner on November 7)",
+            "travelNotes": "Depart Cornell Oct 30 at 1:00 p.m. EDT (bus picks up Syracuse Airport 2:30 p.m.). Return Nov 8 at ~7:00 a.m. EDT from Ithaca (stops Syracuse Airport 8:30 a.m.).",
+            "source": "Canvas announcement emails from Executive MBA Americas Resources 27 (July 6 and August 28, 2026)"
+        },
         "entries": entries,
     }
 

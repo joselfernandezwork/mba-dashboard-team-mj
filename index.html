@@ -17,6 +17,7 @@
           <p class="subtitle">Cohort 27 Dashboard — Team Mj</p>
         </div>
         <div class="updated">Last updated: <span id="updated-at">Loading...</span></div>
+        <button onclick="document.cookie='token=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;'; window.location.href='/';" class="logout-btn" title="Logout">Logout</button>
       </div>
     </div>
   </header>
@@ -33,7 +34,7 @@
     <section id="courses-tab" class="tab-content active">
       <div class="section-header">
         <h2>Courses</h2>
-        <p class="subtitle">26 courses across 5 terms (Summer 2025 – Fall 2026)</p>
+        <div style="margin-top: 8px;"><input type="text" id="courses-search" placeholder="Search courses by name, code, or instructor..." class="search-input"></div>
       </div>
       <div class="grid" id="courses-grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">
         <!-- Populated by JS -->
@@ -44,7 +45,7 @@
     <section id="projects-tab" class="tab-content">
       <div class="section-header">
         <h2>Projects</h2>
-        <p class="subtitle">1 individual project + 7 team projects</p>
+        <div style="margin-top: 8px;"><input type="text" id="projects-search" placeholder="Search projects..." class="search-input"></div>
       </div>
       <div id="projects-container">
         <!-- Populated by JS -->
@@ -55,7 +56,7 @@
     <section id="calendar-tab" class="tab-content">
       <div class="section-header">
         <h2>Cohort 27 Calendar</h2>
-        <p class="subtitle">Full schedule: Summer 2025 – Fall 2026</p>
+        <div style="margin-top: 8px;"><input type="text" id="calendar-search" placeholder="Search by date, course, or location..." class="search-input"></div>
       </div>
       <div id="calendar-container">
         <!-- Populated by JS -->

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "functions": {
+    "api/data.js": {
+      "runtime": "nodejs20.x"
+    },
+    "api/auth/login.js": {
+      "runtime": "nodejs20.x"
+    },
+    "api/auth/logout.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}

@@ -19,7 +19,7 @@ check(courses.cohort === 'EMBA Americas 27', `Wrong cohort: ${courses.cohort}`);
 const calRaw = fs.readFileSync(path.join(DATA_DIR, 'calendar.json'), 'utf8');
 const cal = JSON.parse(calRaw);
 check(cal.totalEntries >= 30, `Expected >=30 calendar entries, got ${cal.totalEntries}`);
-check(cal.residencies.length === 4, `Expected 4 residencies, got ${cal.residencies.length}`);
+check(cal.residencies.length === 5, `Expected 5 residencies, got ${cal.residencies.length}`);
 
 // Check projects.json
 const projRaw = fs.readFileSync(path.join(DATA_DIR, 'projects.json'), 'utf8');
