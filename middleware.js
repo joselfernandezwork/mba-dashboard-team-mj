@@ -89,6 +89,16 @@ export default async function middleware(request) {
       font-weight: 600;
       transition: background 0.2s;
     }
+    select {
+      width: 100%;
+      padding: 12px 16px;
+      margin: 12px 0;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 1rem;
+      font-family: inherit;
+      background: #f9f9f9;
+    }
     button:hover { background: #B31B1B; }
     .error { color: #B31B1B; font-size: 0.85rem; margin-top: 8px; }
   </style>
@@ -96,9 +106,14 @@ export default async function middleware(request) {
 <body>
   <div class="login-box">
     <h1>EMBA Americas • TEAM Mj</h1>
-    <p>Enter password to access the Cornell EMBA Americas (Cohort 27) dashboard.</p>
+    <p>Select your name and enter your password to access the Cornell EMBA Americas (Cohort 27) dashboard.</p>
     <form method="POST" action="/api/auth/login" id="loginForm">
-      <input type="password" name="password" placeholder="Password" required autofocus
+      <select name="name" required autofocus>
+        <option value="">Select your name...</option>
+        <option value="Jose Luis Fernandez Perera">Jose Luis Fernandez Perera</option>
+        <option value="Dr. Marian Hanna">Dr. Marian Hanna</option>
+      </select>
+      <input type="password" name="password" placeholder="Password" required
              autocomplete="current-password">
       <button type="submit">Access Dashboard</button>
     </form>
