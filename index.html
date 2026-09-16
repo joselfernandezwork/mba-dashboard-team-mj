@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cornell EMBA Americas — Cohort 27 Dashboard</title>
+  <link rel="stylesheet" href="/styles/base.css">
+  <link rel="stylesheet" href="/styles/dashboard.css">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="flex-between">
+        <div>
+          <h1>Cornell EMBA Americas</h1>
+          <p class="subtitle">Cohort 27 Dashboard — Team Mj</p>
+        </div>
+        <div class="updated">Last updated: <span id="updated-at">Loading...</span></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" style="max-width: 1200px; margin: 0 auto; padding: 24px;">
+    <nav class="nav-tabs" id="nav-tabs">
+      <button class="nav-tab active" onclick="showTab('courses')">Courses</button>
+      <button class="nav-tab" onclick="showTab('projects')">Projects</button>
+      <button class="nav-tab" onclick="showTab('calendar')">Calendar</button>
+      <button class="nav-tab" onclick="showTab('team')">Team</button>
+    </nav>
+
+    <!-- COURSES TAB -->
+    <section id="courses-tab" class="tab-content active">
+      <div class="section-header">
+        <h2>Courses</h2>
+        <p class="subtitle">26 courses across 5 terms (Summer 2025 – Fall 2026)</p>
+      </div>
+      <div class="grid" id="courses-grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- PROJECTS TAB -->
+    <section id="projects-tab" class="tab-content">
+      <div class="section-header">
+        <h2>Projects</h2>
+        <p class="subtitle">1 individual project + 7 team projects</p>
+      </div>
+      <div id="projects-container">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- CALENDAR TAB -->
+    <section id="calendar-tab" class="tab-content">
+      <div class="section-header">
+        <h2>Cohort 27 Calendar</h2>
+        <p class="subtitle">Full schedule: Summer 2025 – Fall 2026</p>
+      </div>
+      <div id="calendar-container">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- TEAM TAB -->
+    <section id="team-tab" class="tab-content">
+      <div class="section-header">
+        <h2>Team 2</h2>
+        <p class="subtitle">The awesome team — EMBA Americas Cohort 27</p>
+      </div>
+      <div id="team-container">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>EMBA Americas Dashboard TEAM Mj — Data sourced from Cornell program materials. Design: Cornell-Queen's visual system.</p>
+    </div>
+  </footer>
+
+  <script src="/scripts/dashboard.js"></script>
+</body>
+</html>

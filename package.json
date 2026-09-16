@@ -1,0 +1,13 @@
+{
+  "name": "mba-dashboard-team-mj",
+  "version": "1.0.0",
+  "description": "Cornell EMBA Americas Cohort 27 Dashboard - TEAM Mj",
+  "scripts": {
+    "build": "python3 scripts/extract-courses.py && python3 scripts/extract-calendar.py && python3 scripts/extract-projects.py && python3 scripts/extract-team.py",
+    "dev": "npx serve .",
+    "test": "node scripts/test-dashboard.js"
+  },
+  "keywords": ["cornell", "emba", "dashboard", "mba", "cohort-27"],
+  "author": "Jose Luis Fernandez Perera",
+  "license": "MIT"
+}

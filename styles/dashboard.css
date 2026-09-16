@@ -1,0 +1,86 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section-header h2 {
+  font-size: 1.5rem;
+  color: #002452;
+  margin-bottom: 4px;
+}
+
+.section-header .subtitle {
+  color: #6b7280;
+  font-size: 0.85rem;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+.course-card h3 {
+  font-size: 1.05rem;
+  color: #002452;
+  margin-bottom: 4px;
+}
+
+.course-code {
+  font-size: 0.8rem;
+  color: #6b7280;
+  margin: 2px 0;
+}
+
+.course-instructor {
+  font-size: 0.8rem;
+  color: #6b7280;
+  margin: 2px 0;
+}
+
+.course-term {
+  font-size: 0.78rem;
+  color: #9ca3af;
+  margin: 2px 0 0;
+}
+
+.card h3 {
+  color: #002452;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.card h4 {
+  color: #002452;
+  font-size: 0.95rem;
+  margin-bottom: 4px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0;
+  font-size: 0.85rem;
+}
+
+.footer {
+  background: #002452;
+  color: #94a3b8;
+  text-align: center;
+  padding: 16px;
+  font-size: 0.8rem;
+}
+
+.updated {
+  font-size: 0.78rem;
+  color: #c9daf0;
+}

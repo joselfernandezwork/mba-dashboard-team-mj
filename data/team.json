@@ -1,0 +1,39 @@
+{
+  "source": "MASTER_CONTEXT.md (Managing Operations), Team 2 contract, meeting agendas",
+  "generatedAt": "2026-09-15T22:16:19.282679",
+  "program": "EMBA Americas 27",
+  "teamName": "Team 2",
+  "nickname": "the awesome team",
+  "established": "April 2026 (restructured September 15, 2026)",
+  "members": [
+    {
+      "name": "Jose Luis Fernandez Perera",
+      "nickname": "joseluis",
+      "location": "Menlo Park, CA",
+      "timeZone": "PT",
+      "email": "jlf348@cornell.edu",
+      "role": "Team 2 member"
+    },
+    {
+      "name": "Dr. Marian Hanna",
+      "nickname": "Marian",
+      "location": "San Diego, CA",
+      "timeZone": "PT",
+      "email": "mh2635@cornell.edu",
+      "role": "Team 2 member"
+    }
+  ],
+  "teamChangeDate": "2026-09-15",
+  "teamChangeNote": "Team 2 roster reduced to 2 members (Jose Luis Fernandez Perera and Dr. Marian Hanna) as of September 15, 2026. All projects in progress or upcoming from this date forward are handled by these 2 members.",
+  "recentActivity": {
+    "lastMeeting": "August 25, 2026",
+    "lastMeetingAgenda": "Team 2 Working Meeting - Investment Banking project discussion, Global Business Project discussion",
+    "nextStandingMeeting": "Tuesdays, 6:30 PM ET",
+    "currentFocus": "Corporate Financial Policy Part Three, Investment Banking team project, Global Business Project, Marketing Strategy team project"
+  },
+  "discAssessments": true,
+  "discAssessmentsPath": "Classes/Team 2/Copy From OneDrive/Second Copy/DISC Assessments/",
+  "meetingRecordings": true,
+  "meetingRecordingsPath": "Classes/Team 2/Copy From OneDrive/Second Copy/Meetings/Meeting Recordings/",
+  "boardroomGroup": "Team 2 boardroom group information available at Administration/Board Rooms/"
+}

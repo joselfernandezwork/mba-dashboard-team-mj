@@ -1,0 +1,305 @@
+{
+  "source": "Generated from /Users/joselfernandezperera/Documents/Cornell/Classes/",
+  "generatedAt": "2026-09-15T22:16:18.993596",
+  "cohort": "EMBA Americas 27",
+  "totalCourses": 32,
+  "termOrder": [
+    "Summer 2025",
+    "Fall 2025",
+    "Spring 2026",
+    "Summer 2026",
+    "Fall 2026",
+    "Spring 2027",
+    "All terms"
+  ],
+  "courses": [
+    {
+      "name": "Leadership and High Perf Teams",
+      "code": "NBAB 6050",
+      "instructor": "Beta Mannix",
+      "term": "Summer 2025",
+      "status": "completed",
+      "fileCount": 81,
+      "team": "Team 2"
+    },
+    {
+      "name": "Managing, Leading in Org",
+      "code": "NBCB 5040 / MBQC 851",
+      "instructor": "Goce Andrevski",
+      "term": "Summer 2025",
+      "status": "completed",
+      "fileCount": 68,
+      "team": "Team 2"
+    },
+    {
+      "name": "Role of the GM",
+      "code": "NBAB 5630 / MBQC 800",
+      "instructor": "Goce Andrevski",
+      "term": "Summer 2025",
+      "status": "completed",
+      "fileCount": 62,
+      "team": "Team 2"
+    },
+    {
+      "name": "Accounting",
+      "code": "NBCB 5200 / MBQC 806",
+      "instructor": "Brian White",
+      "term": "Fall 2025",
+      "status": "completed",
+      "fileCount": 175,
+      "team": "Team 2"
+    },
+    {
+      "name": "Business Decision Models",
+      "code": "NCCB 5010 / MBQC 862",
+      "instructor": "Faculty TBD",
+      "term": "Fall 2025",
+      "status": "completed",
+      "fileCount": 212,
+      "team": "Team 2"
+    },
+    {
+      "name": "Global Macroeconomics",
+      "code": "TBD",
+      "instructor": "TBD",
+      "term": "Fall 2025",
+      "status": "completed",
+      "fileCount": 16,
+      "team": "Team 2"
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "NBAB 601 / MBQC 917",
+      "instructor": "Salman Mufti",
+      "term": "Fall 2025",
+      "status": "completed",
+      "fileCount": 39,
+      "team": "Team 2"
+    },
+    {
+      "name": "Marketing",
+      "code": "NBCB 5030",
+      "instructor": "Bahriye Goren",
+      "term": "Fall 2025",
+      "status": "completed",
+      "fileCount": 164,
+      "team": "Team 2"
+    },
+    {
+      "name": "New Venture Management",
+      "code": "TBD",
+      "instructor": "Elspeth Murray",
+      "term": "Fall 2025",
+      "status": "completed",
+      "fileCount": 96,
+      "team": "Team 2"
+    },
+    {
+      "name": "Applied Microeconomics",
+      "code": "MBQC 882",
+      "instructor": "Ricard Gill",
+      "term": "Spring 2026",
+      "status": "completed",
+      "fileCount": 29,
+      "team": "Team 2"
+    },
+    {
+      "name": "Business Strategy",
+      "code": "NCCB 5090 / MBQC 901",
+      "instructor": "Faculty TBD",
+      "term": "Spring 2026",
+      "status": "in-progress",
+      "fileCount": 54,
+      "team": "Team 2"
+    },
+    {
+      "name": "Critical Thinking for Business Leaders-NBAB 5880",
+      "code": "NBAB 5880",
+      "instructor": "Risa Mish",
+      "term": "Spring 2026",
+      "status": "completed",
+      "fileCount": 13,
+      "team": "Team 2"
+    },
+    {
+      "name": "Fintech Innovation & Technology",
+      "code": "TBD",
+      "instructor": "TBD",
+      "term": "Spring 2026",
+      "status": "completed",
+      "fileCount": 51,
+      "team": "Team 2"
+    },
+    {
+      "name": "Individual-Project",
+      "code": "NMI 5001 / MBQC 808",
+      "instructor": "TBD",
+      "term": "Spring 2026",
+      "status": "in-progress",
+      "fileCount": 14944,
+      "team": "Team 2"
+    },
+    {
+      "name": "Managerial Finance",
+      "code": "NCCB 5060 / MBQC 821",
+      "instructor": "Mao Ye",
+      "term": "Spring 2026",
+      "status": "completed",
+      "fileCount": 51,
+      "team": "Team 2"
+    },
+    {
+      "name": "Managing Operations",
+      "code": "NCCB 5080 / MBQC 941",
+      "instructor": "Yao Cui",
+      "term": "Spring 2026",
+      "status": "completed",
+      "fileCount": 169,
+      "team": "Team 2"
+    },
+    {
+      "name": "Negotiation",
+      "code": "NBAB 6660 / MBQC 952",
+      "instructor": "Shai Dubey",
+      "term": "Spring 2026",
+      "status": "completed",
+      "fileCount": 74,
+      "team": "Team 2"
+    },
+    {
+      "name": "VC BVR",
+      "code": "TBD",
+      "instructor": "TBD",
+      "term": "Spring 2026",
+      "status": "completed",
+      "fileCount": 15,
+      "team": "Team 2"
+    },
+    {
+      "name": "Valuation",
+      "code": "NBAB 6560 / MBQC 804",
+      "instructor": "Pamela Moulton",
+      "term": "Spring 2026",
+      "status": "completed",
+      "fileCount": 129,
+      "team": "Team 2"
+    },
+    {
+      "name": "Applied AI",
+      "code": "Elective",
+      "instructor": "TBD",
+      "term": "Summer 2026",
+      "status": "completed",
+      "fileCount": 4,
+      "team": "Team 2"
+    },
+    {
+      "name": "Management Accounting",
+      "code": "TBD",
+      "instructor": "Danny Szpiro",
+      "term": "Summer 2026",
+      "status": "in-progress",
+      "fileCount": 101,
+      "team": "Team 2"
+    },
+    {
+      "name": "Marketing Strategy",
+      "code": "NBAB 6220 / MBQC 932",
+      "instructor": "Monica LaBarge",
+      "term": "Summer 2026",
+      "status": "in-progress",
+      "fileCount": 91,
+      "team": "Team 2"
+    },
+    {
+      "name": "Cornell Management Simulation",
+      "code": "TBD",
+      "instructor": "Steve Sauer / Tom Schryver",
+      "term": "Fall 2026",
+      "status": "completed",
+      "fileCount": 0,
+      "team": "Team 2"
+    },
+    {
+      "name": "Corporate Financial Policy",
+      "code": "NBAB 5580 / MBQC 822",
+      "instructor": "Steven A. Carvell",
+      "term": "Fall 2026",
+      "status": "in-progress",
+      "fileCount": 13,
+      "team": "Team 2"
+    },
+    {
+      "name": "Corporate Governance",
+      "code": "TBD",
+      "instructor": "Adrian Corum",
+      "term": "Fall 2026",
+      "status": "in-progress",
+      "fileCount": 8,
+      "team": "Team 2"
+    },
+    {
+      "name": "Global Strategy",
+      "code": "TBD",
+      "instructor": "Michael Sartor",
+      "term": "Fall 2026",
+      "status": "in-progress",
+      "fileCount": 6,
+      "team": "Team 2"
+    },
+    {
+      "name": "Investment Banking Essentials",
+      "code": "TBD",
+      "instructor": "Drew Pascarella",
+      "term": "Fall 2026",
+      "status": "in-progress",
+      "fileCount": 46,
+      "team": "Team 2"
+    },
+    {
+      "name": "Strategies for Sustainability",
+      "code": "TBD",
+      "instructor": "Mark Milstein",
+      "term": "Fall 2026",
+      "status": "upcoming",
+      "fileCount": 0,
+      "team": "Team 2"
+    },
+    {
+      "name": "Transformational Leadership",
+      "code": "TBD",
+      "instructor": "Julian Barling",
+      "term": "Fall 2026",
+      "status": "upcoming",
+      "fileCount": 0,
+      "team": "Team 2"
+    },
+    {
+      "name": "Global Business Project",
+      "code": "NBAB 5970 / MBQC 907",
+      "instructor": "Shai Dubey",
+      "term": "Spring 2027",
+      "status": "in-progress",
+      "fileCount": 53,
+      "team": "Team 2"
+    },
+    {
+      "name": "Career Development",
+      "code": "TBD",
+      "instructor": "TBD",
+      "term": "All terms",
+      "status": "active",
+      "fileCount": 316,
+      "team": "Team 2"
+    },
+    {
+      "name": "Team 2",
+      "code": "N/A",
+      "instructor": "N/A",
+      "term": "All terms",
+      "status": "active",
+      "fileCount": 726,
+      "team": "Team 2"
+    }
+  ]
+}

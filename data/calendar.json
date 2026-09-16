@@ -1,0 +1,858 @@
+{
+  "source": "/Users/joselfernandezperera/Documents/Cornell/Administration/Schedule/EMBAA+Co27+course+schedule_7.17.26.xlsx",
+  "sheet": "Class of 27",
+  "generatedAt": "2026-09-15T22:16:19.223916",
+  "cohort": "EMBA Americas 27",
+  "totalEntries": 82,
+  "terms": [
+    "Summer 2025",
+    "Fall 2025",
+    "Spring 2026",
+    "Summer 2026",
+    "Fall 2026"
+  ],
+  "residencies": [
+    {
+      "name": "Opening Onsite",
+      "location": "Cornell",
+      "term": "Summer 2025"
+    },
+    {
+      "name": "Toronto Residency",
+      "location": "Toronto",
+      "term": "Fall 2025"
+    },
+    {
+      "name": "NYC Residency",
+      "location": "New York City",
+      "term": "Spring 2026"
+    },
+    {
+      "name": "Final Onsite",
+      "location": "Queen's/Cornell",
+      "term": "Fall 2026"
+    }
+  ],
+  "entries": [
+    {
+      "term": "Summer 2025",
+      "date": "2025-06-26",
+      "weekday": "Thursday",
+      "location": "Cornell",
+      "group": "1",
+      "amCourse": "TEAMS 1 -Jess Cisco & Diana Drury",
+      "pmCourse": "TEAMS/Hoffman",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-06-26",
+      "weekday": "Thursday",
+      "location": "Cornell",
+      "group": "2",
+      "amCourse": "TEAMS/Hoffman",
+      "pmCourse": "TEAMS 1 -Jess Cisco & Diana Drury",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-06-27",
+      "weekday": "Friday",
+      "location": "Cornell",
+      "group": "1",
+      "amCourse": "TEAMS-2",
+      "pmCourse": "TEAMS- DISC debreif",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-06-27",
+      "weekday": "Friday",
+      "location": "Cornell",
+      "group": "2",
+      "amCourse": "TEAMS- DISC debreif",
+      "pmCourse": "TEAMS-2",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-06-29",
+      "weekday": "Sunday",
+      "location": "Cornell",
+      "group": "2",
+      "amCourse": "Role of the GM 2",
+      "pmCourse": "Managing, Leading in Organizations 2",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-06-30",
+      "weekday": "Monday",
+      "location": "Cornell",
+      "group": "1",
+      "amCourse": "Managing, Leading in Organizations 3",
+      "pmCourse": "Role of the GM 3",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-06-30",
+      "weekday": "Monday",
+      "location": "Cornell",
+      "group": "2",
+      "amCourse": "Role of the GM 3",
+      "pmCourse": "Managing, Leading in Organizations 3",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-01",
+      "weekday": "Tuesday",
+      "location": "Cornell",
+      "group": "1",
+      "amCourse": "Managing, Leading in Org Session 4",
+      "pmCourse": "Role of the GM 4",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-01",
+      "weekday": "Tuesday",
+      "location": "Cornell",
+      "group": "2",
+      "amCourse": "Role of the GM 4",
+      "pmCourse": "Managing, Leading in Org Session 4",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-02",
+      "weekday": "Wednesday",
+      "location": "Cornell",
+      "group": "1",
+      "amCourse": "Managing, Leading in Org Session 5",
+      "pmCourse": "Role of the GM 5",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-02",
+      "weekday": "Wednesday",
+      "location": "Cornell",
+      "group": "2",
+      "amCourse": "Role of the GM 5",
+      "pmCourse": "Managing, Leading in Org Session 5",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-03",
+      "weekday": "Thursday",
+      "location": "Cornell",
+      "group": "1",
+      "amCourse": "Financial Accounting 1- Brian White",
+      "pmCourse": "Role of the GM 6",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-03",
+      "weekday": "Thursday",
+      "location": "Cornell",
+      "group": "2",
+      "amCourse": "Role of the GM 6",
+      "pmCourse": "Financial Accounting 1- Brian White",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-12",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Role of the GM 7",
+      "pmCourse": "Financial Accounting 2",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-26",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Financial Accounting 3",
+      "pmCourse": "Managing, Leading in Org Session 7",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-26",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Managing, Leading in Org Session 7",
+      "pmCourse": "Financial Accounting 3",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2025",
+      "date": "2025-07-27",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Financial Accounting 4",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-08-09",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Marketing  1- Bahriye Goren",
+      "pmCourse": "Financial Accounting 5",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-08-23",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Financial Accounting 6",
+      "pmCourse": "Marketing 3",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-08-23",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Marketing 3",
+      "pmCourse": "Financial Accounting 6",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-08-24",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Finanial Accounting 7",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-09-06",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Marketing 4",
+      "pmCourse": "Business Decision Models 1- Faculty TBD",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-09-06",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Business Decision Models 1- Faculty TBD",
+      "pmCourse": "Marketing 4",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-09-20",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Marketing 6",
+      "pmCourse": "Business Decision Models 2",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-09-21",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Business Decision Models 3",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-10-04",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Management Information Systems 1-Salman Mufti",
+      "pmCourse": "Business Decision Models 4",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-10-04",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Business Decision Models 4",
+      "pmCourse": "Management Information Systems 1-Salman Mufti",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-10-18",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Management Information Systems 2",
+      "pmCourse": "Business Decision Models 5",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-10-19",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Business Decision Models 6",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-11-01",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Management Information Systems 3",
+      "pmCourse": "Business Decision Models 7",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-11-01",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Business Decision Models 7",
+      "pmCourse": "Management Information Systems 3",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-11-07",
+      "weekday": "Sunday",
+      "location": "Toronto",
+      "group": "1",
+      "amCourse": "New Venture Management 3",
+      "pmCourse": "Global Macro- 1",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-11-07",
+      "weekday": "Sunday",
+      "location": "Toronto",
+      "group": "2",
+      "amCourse": "Global Macro- 1",
+      "pmCourse": "New Venture Management 3",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-12-09",
+      "weekday": "Tuesday",
+      "location": "Toronto",
+      "group": "2",
+      "amCourse": "Global Macro- 3",
+      "pmCourse": "New Venture Management 5",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-12-10",
+      "weekday": "Wednesday",
+      "location": "Toronto",
+      "group": "1",
+      "amCourse": "New Venture Management 6",
+      "pmCourse": "Global Macro- 4",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2025",
+      "date": "2025-12-10",
+      "weekday": "Wednesday",
+      "location": "Toronto",
+      "group": "2",
+      "amCourse": "Global Macro- 4",
+      "pmCourse": "New Venture Management 6",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-01-04",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Applied Microeconomics 1- Ricard Gill",
+      "pmCourse": "N/A",
+      "notes": "No boardrooms in use, all Zoom"
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-01-17",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Finance 2",
+      "pmCourse": "Negotiations 1- Shai Dubey",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-01-17",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Negotiations 1- Shai Dubey",
+      "pmCourse": "Finance 2",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-01-18",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Applied Microeconomics 2",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams"
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-01-31",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Negotiations 2",
+      "pmCourse": "Finance 3",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-01-31",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Finance 3",
+      "pmCourse": "Negotiations 2",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-02-01",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Applied Microeconomics 3",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams"
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-02-14",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Finance 4",
+      "pmCourse": "Negotiations 3",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-02-28",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Negotiations 4",
+      "pmCourse": "Finance 5",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-02-28",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Finance 5",
+      "pmCourse": "Negotiations 4",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-03-01",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Finance 6",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams"
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-04-02",
+      "weekday": "Thursday",
+      "location": "New York City",
+      "group": "1&2",
+      "amCourse": "Critical Thinking 2",
+      "pmCourse": "ELECTIVE",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-04-03",
+      "weekday": "Friday",
+      "location": "New York City",
+      "group": "1&2",
+      "amCourse": "Strategy 5",
+      "pmCourse": "Departure",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-04-11",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Critical Thinking 3",
+      "pmCourse": "Strategy 6",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-04-11",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Strategy 6",
+      "pmCourse": "Critical Thinking 3",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-04-25",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Valuation 1-Pamela Moulton",
+      "pmCourse": "Operations 1-Yao Cui",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-04-26",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Critical Thinking 4",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-05-09",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Valuation 2",
+      "pmCourse": "Operations 2",
+      "notes": ""
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-05-23",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Valuations 4",
+      "pmCourse": "Operations 3",
+      "notes": "Cascaded sessions, Faculty noted teaches to all teams."
+    },
+    {
+      "term": "Spring 2026",
+      "date": "2026-05-24",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "NO CLASS",
+      "pmCourse": "N/A",
+      "notes": "Memorial day  (May 26)"
+    },
+    {
+      "term": "Summer 2026",
+      "date": "2026-06-06",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Operations 4",
+      "pmCourse": "Marketing Strategy 1-Monica LaBarge",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2026",
+      "date": "2026-06-20",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Management Accounting 1-Danny Szpiro",
+      "pmCourse": "Operations 6",
+      "notes": "Cascaded sessions, Faculty teaches to all teams."
+    },
+    {
+      "term": "Summer 2026",
+      "date": "2026-06-21",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Marketing Strategy 2",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Summer 2026",
+      "date": "2026-07-04",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Operations 7",
+      "pmCourse": "Marketing Strategy 3",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2026",
+      "date": "2026-07-18",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Marketing Strategy 4",
+      "pmCourse": "Management Accounting 3",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2026",
+      "date": "2026-07-18",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Management Accounting 3",
+      "pmCourse": "Marketing Strategy 4",
+      "notes": ""
+    },
+    {
+      "term": "Summer 2026",
+      "date": "2026-07-19",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Marketing Strategy 5",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-08-01",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Management Accounting 4",
+      "pmCourse": "Marketing Strategy 6",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-08-15",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Corporate Financial Policy-1 Steve Carvell",
+      "pmCourse": "Management Accounting 6",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-08-16",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Investment Banking 1-Drew Pascarella",
+      "pmCourse": "N/A",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-08-29",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Investment Banking 2",
+      "pmCourse": "Corporate Financial Policy-2",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-08-29",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Corporate Financial Policy-2",
+      "pmCourse": "Investment Banking 2",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-08-30",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Investment Banking 3",
+      "pmCourse": "",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-09-12",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Corporate Financial Policy-3",
+      "pmCourse": "Investment Banking 4",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-09-26",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Global Strategy 1-Michael Sartor",
+      "pmCourse": "Corporate Governance 2",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-09-26",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Corporate Governance 2",
+      "pmCourse": "Global Strategy 1-Michael Sartor",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-09-27",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Global Strategy 2",
+      "pmCourse": "N/A",
+      "notes": "Cascades session, Faculty teaches to all teams"
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-10-10",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "1",
+      "amCourse": "Corporate Governance  3",
+      "pmCourse": "Corporate Financial Policy 4",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-10-10",
+      "weekday": "Saturday",
+      "location": "Video Conferencing",
+      "group": "2",
+      "amCourse": "Corporate Financial Policy 4",
+      "pmCourse": "Corporate Governance  3",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-10-25",
+      "weekday": "Sunday",
+      "location": "Video Conferencing",
+      "group": "1&2",
+      "amCourse": "Global Strategy 5",
+      "pmCourse": "",
+      "notes": "Cascaded session, Faculty teaches to all teams."
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-10-30",
+      "weekday": "Friday",
+      "location": "Queen's/Cornell",
+      "group": "1&2",
+      "amCourse": "Arrival day",
+      "pmCourse": "",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-10-31",
+      "weekday": "Saturday",
+      "location": "Queen's/Cornell",
+      "group": "1&2",
+      "amCourse": "Transformational Leadership 1- Julian Barling",
+      "pmCourse": "Transformational Leadership 2 & 3",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-11-04",
+      "weekday": "Wednesday",
+      "location": "Queen's/Cornell",
+      "group": "1&2",
+      "amCourse": "Cornell Management Simulation 1- Steve Sauer/Tom Schryver",
+      "pmCourse": "Cornell Management Simulation 2",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-11-05",
+      "weekday": "Thursday",
+      "location": "Queen's/Cornell",
+      "group": "1&2",
+      "amCourse": "Cornell Management Simulation 3",
+      "pmCourse": "Cornell Management Simulation Tournament",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-11-06",
+      "weekday": "Friday",
+      "location": "Queen's/Cornell",
+      "group": "1&2",
+      "amCourse": "Elective 2",
+      "pmCourse": "Elective 2",
+      "notes": ""
+    },
+    {
+      "term": "Fall 2026",
+      "date": "2026-11-07",
+      "weekday": "Saturday",
+      "location": "Queen's/Cornell",
+      "group": "1&2",
+      "amCourse": "Elective 2",
+      "pmCourse": "Elective 2",
+      "notes": "Celebration dinner"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+:root {
+  --queens-blue: #002452;
+  --cornell-carnelian: #B31B1B;
+  --queens-gold: #FABD0F;
+  --pale-blue: #E8F0FA;
+  --text-primary: #1a1a1a;
+  --text-secondary: #555;
+  --border-radius: 8px;
+  --font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fafafa;
+  color: var(--text-primary);
+  font-family: var(--font-family);
+  line-height: 1.6;
+}
+
+/* Cornell-Queen's visual system: structure in Queen's Blue, emphasis in Carnelian, accents in Gold */
+.header {
+  background: var(--queens-blue);
+  color: white;
+  padding: 24px 32px;
+}
+
+.header h1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.header .subtitle {
+  color: #c9daf0;
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+
+.accent-text {
+  color: var(--cornell-carnelian);
+}
+
+.accent-bg {
+  background: var(--cornell-carnelian);
+  color: white;
+}
+
+.gold-accent {
+  color: var(--queens-gold);
+}
+
+.card {
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e5e7eb;
+  padding: 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+}
+
+.table th {
+  background: var(--pale-blue);
+  color: var(--queens-blue);
+  font-weight: 700;
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 2px solid var(--queens-blue);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 0.85rem;
+}
+
+.table tr:hover {
+  background: var(--pale-blue);
+}
+
+.badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.badge-blue {
+  background: var(--pale-blue);
+  color: var(--queens-blue);
+}
+
+.badge-red {
+  background: var(--cornell-carnelian);
+  color: white;
+}
+
+.badge-gold {
+  background: var(--queens-gold);
+  color: var(--queens-blue);
+}
+
+.grid {
+  display: grid;
+  gap: 16px;
+}
+
+.nav-tabs {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.nav-tab {
+  padding: 10px 24px;
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  border-bottom: 3px solid transparent;
+}
+
+.nav-tab.active {
+  color: var(--queens-blue);
+  border-bottom-color: var(--queens-blue);
+}
+
+.nav-tab:hover {
+  color: var(--queens-blue);
+}
