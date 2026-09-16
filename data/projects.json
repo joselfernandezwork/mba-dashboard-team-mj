@@ -1,6 +1,6 @@
 {
   "source": "Generated from Team 2 shared folder and Individual-Project directory",
-  "generatedAt": "2026-09-15T22:16:19.260027",
+  "generatedAt": "2026-09-15T22:28:33.564116",
   "cohort": "EMBA Americas 27",
   "totalProjects": 8,
   "individualProjects": [
@@ -101,7 +101,8 @@
       "team": "Team 2",
       "deliverable": "American Girl Case Group Project",
       "status": "submitted",
-      "dueDate": "Spring 2026"
+      "dueDate": "Spring 2026",
+      "teamNote": "As of September 15, 2026, Team 2 roster reduced to 2 members (Jose Luis Fernandez Perera and Dr. Marian Hanna). This project was completed under the original team roster."
     },
     {
       "type": "team",
@@ -166,7 +167,8 @@
         "Littlefield Technologies Simulation (5th of 20 teams, $2M final cash)",
         "Lean Operations Presentation",
         "National Cranberry Cooperative"
-      ]
+      ],
+      "teamNote": "As of September 15, 2026, Team 2 roster reduced to 2 members (Jose Luis Fernandez Perera and Dr. Marian Hanna). This project was completed under the original team roster."
     }
   ],
   "projects": [
@@ -224,7 +226,8 @@
       "team": "Team 2",
       "deliverable": "American Girl Case Group Project",
       "status": "submitted",
-      "dueDate": "Spring 2026"
+      "dueDate": "Spring 2026",
+      "teamNote": "As of September 15, 2026, Team 2 roster reduced to 2 members (Jose Luis Fernandez Perera and Dr. Marian Hanna). This project was completed under the original team roster."
     },
     {
       "type": "team",
@@ -289,7 +292,8 @@
         "Littlefield Technologies Simulation (5th of 20 teams, $2M final cash)",
         "Lean Operations Presentation",
         "National Cranberry Cooperative"
-      ]
+      ],
+      "teamNote": "As of September 15, 2026, Team 2 roster reduced to 2 members (Jose Luis Fernandez Perera and Dr. Marian Hanna). This project was completed under the original team roster."
     },
     {
       "type": "individual",

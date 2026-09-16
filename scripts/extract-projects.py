@@ -35,6 +35,7 @@ TEAM_PROJECTS = {
         "deliverable": "American Girl Case Group Project",
         "status": "submitted",
         "dueDate": "Spring 2026",
+        "teamNote": "As of September 15, 2026, Team 2 roster reduced to 2 members (Jose Luis Fernandez Perera and Dr. Marian Hanna). This project was completed under the original team roster.",
     },
     "Business Strategy": {
         "course": "Business Strategy",
@@ -80,6 +81,7 @@ TEAM_PROJECTS = {
         "team": "Team 2",
         "status": "completed",
         "deliverables": ["Littlefield Technologies Simulation (5th of 20 teams, $2M final cash)", "Lean Operations Presentation", "National Cranberry Cooperative"],
+        "teamNote": "As of September 15, 2026, Team 2 roster reduced to 2 members (Jose Luis Fernandez Perera and Dr. Marian Hanna). This project was completed under the original team roster.",
     },
 }
 
